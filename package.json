@@ -1,11 +1,19 @@
 {
   "name": "vue-yed-progressbar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "description": "Vuejs Progressbar Component",
   "author": "Yasin Efem Dalkılıç",
   "repository": "YASIINN/vue-yed-progressbar",
-  "keywords": ["vue-yed-progressbar","v-yed-progressbar","progressbar","Javascript","Vuejs","Vue-progress-bar", "yefemdlklc"],
+  "keywords": [
+    "vue-yed-progressbar",
+    "v-yed-progressbar",
+    "progressbar",
+    "Javascript",
+    "Vuejs",
+    "Vue-progress-bar",
+    "yefemdlklc"
+  ],
   "main": "dist/vue-yed-progressbar.ssr.js",
   "browser": "dist/vue-yed-progressbar.esm.js",
   "module": "dist/vue-yed-progressbar.esm.js",

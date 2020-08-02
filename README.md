@@ -5,6 +5,9 @@
 
 [![NPM](https://img.shields.io/npm/v/vue-yed-progressbar.svg)](https://www.npmjs.com/package/vue-yed-progressbar) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+##Demo
+
+[Demo](https://github.com/YASIINN/vue-yed-progressbar.git)
 
 
 ## Install
