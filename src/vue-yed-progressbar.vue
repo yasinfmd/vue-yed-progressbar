@@ -69,7 +69,6 @@ export default {
     border-top-right-radius: 8px;
     display: flex;
     align-items: center;
-    animation: progress 2s linear infinite;
     height: 20px;
     transition: width .6s ease;
   }
