@@ -7,7 +7,7 @@
 
 ## Demo
 
-[Demo](https://github.com/YASIINN/vue-yed-progressbar.git)
+[Demo](https://yasinfmd.github.io/vue-yed-progress-demo/)
 
 
 ## Install
